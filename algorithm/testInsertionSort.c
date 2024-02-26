@@ -2,7 +2,7 @@
 int main()
 {
     int n, temp;
-    printf("Enter the number of number: ");
+    printf("Enter the total number: ");
     scanf("%d", &n);
     int arr[n];
     printf("Enter the element: \n");
